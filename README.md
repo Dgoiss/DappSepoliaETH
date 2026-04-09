@@ -1,8 +1,8 @@
-# 🚀 Dapp Registro - Sepolia ETH
+# Dapp Registro - Sepolia ETH
 
 Este é um projeto de estudo de uma aplicação descentralizada (DApp) completa, desde o Smart Contract em Solidity até o Frontend em React.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Solidity**: Linguagem para o Smart Contract.
 * **Hardhat**: Ambiente de desenvolvimento para Ethereum.
@@ -10,12 +10,12 @@ Este é um projeto de estudo de uma aplicação descentralizada (DApp) completa,
 * **React + Vite**: Framework para o Frontend.
 * **Sepolia Testnet**: Rede de testes onde o contrato foi implantado.
 
-## 📜 Endereço do Contrato
+## Endereço do Contrato
 
 O contrato foi implantado com sucesso na rede Sepolia:
 `0x782d90c8D5E5459555649e09841219bcb67AfDe3`
 
-## 🚀 Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 ### 1. Clonar o repositório
 ```bash
